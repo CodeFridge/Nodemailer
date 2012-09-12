@@ -25,7 +25,7 @@
         }
     ],
     "dependencies": {
-        "mailcomposer": ">= 0.1.14",
+        "mailcomposer": "https://github.com/CodeFridge/mailcomposer/tarball/temp_qp_fix",
         "simplesmtp": ">= 0.1.15"
     },
     "devDependencies": {
